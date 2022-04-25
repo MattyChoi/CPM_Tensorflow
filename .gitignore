@@ -1,0 +1,10 @@
+.idea/*
+.vcscode/*
+models/weights/*
+test_imgs/*
+*/__pycache__
+*/*/__pycache__
+omc_dataset_train.tfrecords
+val/*.jpg
+val/val_annotation.json
+__pycache__
